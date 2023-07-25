@@ -1,4 +1,4 @@
-<!--### Hi there 👋 -->
+<!-- ### Hi there 👋 -->
 
 <!--
 **yishian6/yishian6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,21 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://count.getloli.com/get/@:yishian6?theme=rule34">
-### Hi there 👋
+
+## 后端工程师 👋
 
 
 - 🔭 I’m currently studying on njupt
 - 🌱 I’m currently learning java, python, javascript
 
+<!--
+### **社交主页：**
+
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+
+-   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-->
 
 <table>
   <tr>
@@ -50,7 +59,7 @@ Here are some ideas to get you started:
 
 
 ## Tech
-![skills](https://skillicons.dev/icons?i=redis, mysql)
+![skills](https://skillicons.dev/icons?i=redis)
 <!--
 ## Tech
 ![skills](https://skillicons.dev/icons?i=redis,figma,wasm,androidstudio,regex,ps)
@@ -62,16 +71,16 @@ Here are some ideas to get you started:
 
 ## Project
 <a href="https://github.com/yishian6/TfidfPractice" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Attack825&repo=tf_idf_flask" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=TfidfPractice" />
 </a>
 <a href="https://github.com//yishian6/LibraryManageSystem" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Attack825&repo=liunx_config" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=LibraryManageSystem" />
 </a>
 
 <a href="https://github.com/yishian6/SmartLogistics" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Attack825&repo=Attack825.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=SmartLogistics" />
 </a>
 
 <a href="https://github.com/yishian6/yishian6" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Attack825&repo=Attack825.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=yishian6" />
 </a>
