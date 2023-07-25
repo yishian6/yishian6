@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 </table>
 
 ## Framework
-![skills](https://skillicons.dev/icons?i=spring,springmvc,springboot,mybatis,mybatis-plus, vue,flask)
+![skills](https://skillicons.dev/icons?i=spring, springmvc, springboot, mybatis, mybatis-plus, vue, flask)
 <!--![skills](https://skillicons.dev/icons?i=react,vue,selenium,nestjs)
 -->
 ## Language
-<!--
 ![skills](https://skillicons.dev/icons?i=c,java,python,javascript,css,html,c,md,typescript)
---> 
+<!--
 ![skills](https://skillicons.dev/icons?i=c,python,lua)
+--> 
 
 
 ## Tech
-![skills](https://skillicons.dev/icons?i=redis)
+![skills](https://skillicons.dev/icons?i=redis, mysql)
 <!--
 ## Tech
 ![skills](https://skillicons.dev/icons?i=redis,figma,wasm,androidstudio,regex,ps)
