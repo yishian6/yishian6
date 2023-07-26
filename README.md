@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://count.getloli.com/get/@:yishian6?theme=rule34">
 
-## 后端工程师 👋
+## 后端 👋
 
 
 - 🔭 I’m currently studying on njupt
@@ -47,16 +47,17 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Framework
-![skills](https://skillicons.dev/icons?i=spring,vue,flask,mybatis,springmvc,springboot,mybatis-plus)
-<!--![skills](https://skillicons.dev/icons?i=react,vue,selenium,nestjs)
--->
 ## Language
 ![skills](https://skillicons.dev/icons?i=c,java,python,javascript)
 <!--
 ![skills](https://skillicons.dev/icons?i=c,python,lua)
 --> 
 
+
+## Framework
+![skills](https://skillicons.dev/icons?i=spring,vue,flask,mybatis,springmvc,springboot,mybatis-plus)
+<!--![skills](https://skillicons.dev/icons?i=react,vue,selenium,nestjs)
+-->
 
 ## Database
 ![skills](https://skillicons.dev/icons?i=redis,mysql)
@@ -81,6 +82,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=SmartLogistics" />
 </a>
 
-<a href="https://github.com/yishian6/yishian6" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=yishian6" />
+<a href="https://github.com/yishian6/yishian6.github.io" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=yishian6.github.io" />
 </a>
