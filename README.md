@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 
 
 ## Project
+<a href="https://github.com/yishian6/LogisticsFront" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=LogisticsFront" />
+</a>
 <a href="https://github.com/yishian6/TfidfPractice" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=TfidfPractice" />
 </a>
