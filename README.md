@@ -71,17 +71,15 @@ Here are some ideas to get you started:
 
 
 ## Project
+<a href="https://github.com/yishian6/LogisticsDesign" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=LogisticsDesign" />
+</a>
+<a href="https://github.com/yishian6/SmartLogistics" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=SmartLogistics" />
+</a>
 <a href="https://github.com/yishian6/TfidfPractice" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=TfidfPractice" />
 </a>
 <a href="https://github.com//yishian6/LibraryManageSystem" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=LibraryManageSystem" />
-</a>
-
-<a href="https://github.com/yishian6/SmartLogistics" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=SmartLogistics" />
-</a>
-
-<a href="https://github.com/yishian6/yishian6.github.io" style="margin-bottom:5px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yishian6&repo=yishian6.github.io" />
 </a>
